@@ -1,1 +1,1 @@
-# AMS 597 Projects
+# ATMS 597 Projects
